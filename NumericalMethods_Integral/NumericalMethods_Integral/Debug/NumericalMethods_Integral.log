@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\виктория\documents\visual studio 2015\projects\numericalmethods_integral\numericalmethods_integral\numericalmethods_integral\main.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\виктория\documents\visual studio 2015\projects\numericalmethods_integral\numericalmethods_integral\numericalmethods_integral\main.cpp(146): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\виктория\documents\visual studio 2015\projects\numericalmethods_integral\numericalmethods_integral\numericalmethods_integral\main.cpp(154): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\виктория\documents\visual studio 2015\projects\numericalmethods_integral\numericalmethods_integral\numericalmethods_integral\main.cpp(156): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\виктория\documents\visual studio 2015\projects\numericalmethods_integral\numericalmethods_integral\numericalmethods_integral\main.cpp(158): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\виктория\documents\visual studio 2015\projects\numericalmethods_integral\numericalmethods_integral\numericalmethods_integral\main.cpp(160): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  NumericalMethods_Integral.vcxproj -> C:\Users\Виктория\Documents\Visual Studio 2015\Projects\NumericalMethods_Integral\NumericalMethods_Integral\Debug\NumericalMethods_Integral.exe
+  NumericalMethods_Integral.vcxproj -> C:\Users\Виктория\Documents\Visual Studio 2015\Projects\NumericalMethods_Integral\NumericalMethods_Integral\Debug\NumericalMethods_Integral.pdb (Partial PDB)
